@@ -3,3 +3,10 @@ numpy
 pandas
 pydeck
 streamlit
+pypdf
+langchain
+langchainhub
+langchain-community
+langchain-google-genai
+google-generativeai
+tavily-python

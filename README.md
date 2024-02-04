@@ -1,7 +1,7 @@
 # Welcome to streamlit
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+これは、「streamlit hello」を実行すると取得されるアプリで、独自のアプリとして抽出されます。
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+[Hello.py](./Hello.py) を編集して、このアプリを思いどおりにカスタマイズします。 ❤️
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+【Streamlit Community Cloud】(https://st-hello-app.streamlit.app/)で確認してください。
